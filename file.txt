@@ -1,3 +1,4 @@
 File modified in dev second time for conflict
 
-Feature branch chane 1
+Feature branch change 1
+Feature branch change 2
